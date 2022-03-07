@@ -2,7 +2,7 @@
 TrackingCode
 # mycode (1st project)
 
-Learning Python for the first time to have a :better understanding on how to make automation projects!
+Learning Python for the first time to have a better understanding on scripting languea to help with making of automation projects!
 
 ## Getting Started
 
