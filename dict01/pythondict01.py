@@ -8,7 +8,12 @@ print( switch["hostname"] )
 print( switch["ip"] )
 
 ## request a 'fake' key
-#print( switch["lynx"] )  
+#print( switch["lynx"] ) This errors out because this key does not exist on dictionary. 
+
+# Be sure to comment out this line,
+# or your program will CONTINUE to fail!
+# if a KEY is requested that does not exist,
+# an ERROR will be thrown!
 
 ## request a 'fake' key with .get() method
 print( "First test - .get()" )
